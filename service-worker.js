@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/stem-is-diverse/precache-manifest.9f7e16e091338af254d4330e4fece5a5.js"
+  "/stem-is-diverse/precache-manifest.95c74934b98b786aa0f66ca99d18e2cf.js"
 );
 
 workbox.clientsClaim();
