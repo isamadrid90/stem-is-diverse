@@ -5,6 +5,8 @@
   "homepage": "http://isamadrid90.github.io/stem-is-diverse",
   "dependencies": {
     "@material-ui/core": "^3.3.2",
+    "ajv": "^6.5.5",
+    "material-ui-icons": "^1.0.0-beta.36",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-router-dom": "^4.3.1",
